@@ -31,6 +31,7 @@
     "find-up": "^2.1.0",
     "fs-extra-promise": "^0.4.1",
     "gh-pages": "^2.0.1",
+    "git-remote-origin-url": "^3.0.0",
     "highlight.js": "^9.10.0",
     "htmlparser2": "MarkBind/htmlparser2#v3.10.0-markbind.1",
     "ignore": "^3.2.0",
